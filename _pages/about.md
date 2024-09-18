@@ -11,6 +11,7 @@ I am Ding Xiaoshan, currently serving as the head of Nanjing Huiyan Nengce Techn
 
 In my spare time, I enjoy relaxing through reading, running, and off-road activities. Additionally, I am an amateur radio operator with the call sign BD4WUC. This hobby helps me maintain my interest and passion for communication technologies.
 
-You can find my CV here: [DingXiaoshan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [DingXiaoshan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+
 [Email](mailto:1319115709@njupt.edu.cn) / [Github](https://github.com/HelloWorldAGI) / [Wechat](../images/wechat.jpg)
 
