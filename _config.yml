@@ -25,18 +25,18 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Stay hungry, Stay foolish"
   location         : "Nanjing"
-  employer         : "NJNPT"
+  employer         : "Nanjing University of Posts and Telecommunications"
   uri              : "thetime.space"
   email            : "1319115709@njupt.edu.cn" 
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile
  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-2404-1642"
  # semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  researchgate     : # URL
 
   # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
