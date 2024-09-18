@@ -12,8 +12,8 @@ title                    : "Xiaoshan Ding / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoshan Ding"
 url                      : https://helloworldagi.github.io/academicpages.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/academicpages.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   bio              : "Stay hungry, Stay foolish"
   location         : "Nanjing"
   University         : "Nanjing University of Posts and Telecommunications"
-  uri              : https://www.thetime.space
+  uri              : "https://www.thetime.space"
   email            : "1319115709@njupt.edu.cn" 
 
   # Academic websites
